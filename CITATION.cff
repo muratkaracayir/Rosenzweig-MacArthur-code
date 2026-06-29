@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying manuscript and this repository."
+title: "Numerical workflows for the diffusive Rosenzweig-MacArthur model"
+type: software
+
+authors:
+  - family-names: "Karaçayır"
+    given-names: "Murat"
+
+abstract: >
+  Minimal MATLAB companion code for numerical workflows associated with
+  the diffusive Rosenzweig-MacArthur predator-prey model. The repository
+  includes workflows for constant equilibria, homogeneous limit cycles,
+  Hopf branch continuation, and steady-state branch continuation.
+
+keywords:
+  - Rosenzweig-MacArthur model
+  - predator-prey system
+  - reaction-diffusion equations
+  - Hopf bifurcation
+  - steady-state bifurcation
+  - pseudo-arclength continuation
+  - MATLAB
+
+license: MIT
+repository-code: "https://github.com/muratkaracayir/Rosenzweig-MacArthur-code"
+date-released: "2026-06-29"
+version: "1.0.0"
